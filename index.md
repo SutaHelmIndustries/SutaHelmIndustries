@@ -16,3 +16,5 @@ We're Thanos and Ali, two nerds with too much free time so we're making discord 
   - A small Discord bot for playing music.
 - [discord-radiobot](https://github.com/SutaHelmIndustries/discord-radiobot)
   - A minimalist Discord bot for setting up "radios" - a looped playlist of music
+- [discord-pin-archiver](https://github.com/SutaHelmIndustries/discord-pin-archiver)
+  - A simple Discord bot for storing extra pins in a channel.
